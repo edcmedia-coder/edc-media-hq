@@ -1,0 +1,6 @@
+{
+  "name": "EDC Media HQ",
+  "description": "The flagship headquarters for EDC Media. Building intelligent software systems that turn ideas, information, and repetitive work into automated outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
